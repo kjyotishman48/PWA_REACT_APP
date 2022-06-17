@@ -7,7 +7,7 @@ The deployed website linked : https://tangerine-speculoos-dd37a1.netlify.app/
 
 The front-end is fully responsive
 
-In the search bar enter a place name (city, town or village) and press enter
+In the search bar enter a place name (city, town or any valid place name) and press enter
 
 The current weather of the place will be rendered in the front end below the search bar 
 
